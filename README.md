@@ -35,7 +35,7 @@ Uruvam Fitness is a static HTML website that we revamped to reflect the client's
 
 ## Demo
 
-Check out the live demo of the Dice Harmony - https://cksabari2001-uruvam-fitness.netlify.app
+Check out the live demo of the Uruvam Fitness - https://cksabari2001-uruvam-fitness.netlify.app
 
 ## Run Locally
 
