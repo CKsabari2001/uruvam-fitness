@@ -6,6 +6,10 @@ Welcome to the Uruvam Fitness project repository! This project showcases our wor
 
 Uruvam Fitness is a static HTML website that we revamped to reflect the client's business information and services. The project involved enhancing the existing website's design, structure, and content to better represent the client's brand identity and attract potential customers.
 
+## Demo
+
+Check out the live demo of the Uruvam Fitness - https://cksabari2001-uruvam-fitness.netlify.app
+
 ## Project Details
 
 - **Client**: MR.VIJAYAKUMAR
@@ -33,9 +37,6 @@ Uruvam Fitness is a static HTML website that we revamped to reflect the client's
 
 ![306054851-3d9e0e03-8fbf-42a8-bd7c-05205985d425](https://github.com/CKsabari2001/uruvam-fitness/assets/110533554/67411a16-ab50-49b1-9c43-d86bf91af84e)
 
-## Demo
-
-Check out the live demo of the Uruvam Fitness - https://cksabari2001-uruvam-fitness.netlify.app
 
 ## Run Locally
 
